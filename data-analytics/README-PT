@@ -1,0 +1,57 @@
+# 📊 Roteiro de Análise de Dados com Python, SQL e Power BI
+
+Seja bem-vindo(a)! Este repositório é para você que quer evoluir na área de **Análise de Dados** de forma prática e estruturada, mesmo começando do zero.
+
+Sou Rodrigo Moreira — Educador em Tecnologia, Consultor e Mentor — e criei esse roteiro baseado na minha experiência lecionando para universidades e ajudando profissionais em transição de carreira.
+
+---
+
+## 🧭 Etapas do Aprendizado
+
+### 🟢 1. Conceitos Fundamentais
+- O que é análise de dados?
+- Diferença entre dados, informação e conhecimento
+- Ciclo de vida do dado: Coleta → Limpeza → Análise → Visualização → Ação
+
+📘 Recursos sugeridos:
+- [Curso Fundamentos de Dados - DataCamp](https://www.datacamp.com/)
+- [Google Data Analytics Professional Certificate](https://www.coursera.org/professional-certificates/google-data-analytics)
+- [Khan Academy – Estatística Básica](https://pt.khanacademy.org/math/statistics-probability)
+
+---
+
+### 🟡 2. Ferramentas e Linguagens
+- `Python`: manipulação de dados com `pandas` e `numpy`
+- `SQL`: extração de dados de bases relacionais
+- `Power BI`: dashboards visuais e apresentações
+
+📂 Exemplos de uso incluídos neste repositório:
+- Scripts para limpeza de dados (CSV, Excel)
+- Consultas SQL reais para análise de negócio
+- Dashboards em `.pbix` prontos para estudo
+
+---
+
+### 🔴 3. Mini Projetos
+- Análise de Vendas Mensais (Power BI)
+- Dashboard de Indicadores de Saúde
+- Análise de dados de evasão escolar
+- Estudo de caso com Python: indicadores de desempenho em universidades
+
+---
+
+## 🎯 Dicas Profissionais
+
+- Entenda o problema de negócio antes de abrir o Jupyter
+- Busque sempre explicar os gráficos com storytelling
+- Monte um portfólio de projetos em GitHub (documentado!)
+
+---
+
+## 👨‍🏫 Precisa de Ajuda?
+
+Estou no LinkedIn: [Rodrigo Moreira](https://www.linkedin.com/in/rodrigomoreiradossantos)
+
+Se quiser contribuir com este material, envie um pull request ou me mande uma mensagem. Se ele te ajudou, sinta-se à vontade para compartilhar.
+
+> 📊 Dados só têm valor quando geram decisões melhores.
