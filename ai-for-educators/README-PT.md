@@ -38,4 +38,23 @@ Promover o uso responsável, acessível e criativo da IA no ambiente educacional
 
 ## 📌 Boas Práticas
 - Sempre revise e personalize o conteúdo gerado por IA
+- Evite uso excessivo e dependência da IA no processo de aprendizagem
+- Ensine seus alunos a usar IA com pensamento crítico e ética
+
+---
+
+## 📢 Contribua ou Vamos Conversar?
+
+Se você também acredita que a IA pode melhorar a educação, envie sugestões, exemplos ou participe das discussões aqui.
+
+📫 LinkedIn: [Rodrigo Moreira](https://www.linkedin.com/in/rodrigomoreiradossantos)
+
+> “A IA não substitui professores — ela amplia seu alcance e potencial.”
+
+
+
+---
+
+## 📌 Boas Práticas
+- Sempre revise e personalize o conteúdo gerado por IA
 - Evite uso excessivo e dependência da IA no processo de
