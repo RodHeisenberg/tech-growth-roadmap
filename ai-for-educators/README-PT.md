@@ -51,10 +51,3 @@ Se você também acredita que a IA pode melhorar a educação, envie sugestões,
 
 > “A IA não substitui professores — ela amplia seu alcance e potencial.”
 
-
-
----
-
-## 📌 Boas Práticas
-- Sempre revise e personalize o conteúdo gerado por IA
-- Evite uso excessivo e dependência da IA no processo de
